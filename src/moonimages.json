@@ -1,50 +1,50 @@
 [
 	{
 		"id": "1",
-		"link": "../public/images/sailormoon.jpg"
+		"image": "sailormoon.jpg"
 	},
 	{
 		"id": "2",
-		"link": "../public/images/mercury.jpg" 
+		"image": "mercury.jpg" 
 	},
 	{
 		"id": "3",
-		"link": "../public/images/mars.jpg" 
+		"image": "mars.jpg" 
 	},
 	{
 		"id": "4",
-		"link": "../public/imagesjupiter.jpg" 
+		"image": "jupiter.jpg" 
 	},
 	{
 		"id": "5",
-		"link": "../public/imagesvenus.jpg" 
+		"image": "venus.jpg" 
 	},
 	{
 		"id": "6",
-		"link": "../public/imagespluto.jpeg" 
+		"image": "pluto.jpg" 
 	},
 	{
 		"id": "7",
-		"link": "../public/imagesuranus.jpg" 
+		"image": "uranus.jpg" 
 	},
 	{
 		"id": "8",
-		"link": "../public/imagesneptune.jpg" 
+		"image": "neptune.jpg" 
 	},
 	{
 		"id": "9",
-		"link": "../public/imagessaturn.jpg" 
+		"image": "saturn.jpg" 
 	},
 	{
 		"id": "10",
-		"link": "../public/imageschibimoon.jpg" 
+		"image": "chibimoon.jpg" 
 	},
 	{
 		"id": "11",
-		"link": "../public/imagestuxedomask.jpg" 
+		"image": "tuxedomask.jpg" 
 	},
 	{
 		"id": "12",
-		"link": "../public/imagesluna.jpg" 
+		"image": "luna.jpg" 
 	}
 ]
